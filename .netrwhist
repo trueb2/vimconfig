@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Workspace/xgsrc/libdatagen'
+let g:netrw_dirhist_2='/Workspace/xgsrc/libdatagen/incldue'
+let g:netrw_dirhist_3='/Workspace/xgsrc/libdatagen'
+let g:netrw_dirhist_4='/Workspace/xgsrc/libdatagen/include/datagen'
